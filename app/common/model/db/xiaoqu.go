@@ -3,7 +3,7 @@ package db
 import (
 	"context"
 
-	"github.com/abyss414/house/app/common/connector"
+	"github.com/ulysseskk/house/app/common/connector"
 )
 
 type Xiaoqu struct {

@@ -4,8 +4,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/abyss414/house/app/common/config"
-	"github.com/abyss414/house/app/common/connector"
+	"github.com/ulysseskk/house/app/common/config"
+	"github.com/ulysseskk/house/app/common/connector"
 )
 
 func TestScanForPriceDayTimestamp(t *testing.T) {

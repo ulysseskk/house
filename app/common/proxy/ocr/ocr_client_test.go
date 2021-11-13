@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/abyss414/house/app/common/config"
+	"github.com/ulysseskk/house/app/common/config"
 )
 
 func TestOCRClient_Base64(t *testing.T) {

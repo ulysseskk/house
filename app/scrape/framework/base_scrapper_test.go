@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/abyss414/house/app/common/constant"
+	"github.com/ulysseskk/house/app/common/constant"
 )
 
 func Test_ZiroomScrapper(t *testing.T) {

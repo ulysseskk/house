@@ -4,9 +4,9 @@ import (
 	"context"
 	"time"
 
-	"github.com/abyss414/house/app/common/log"
+	"github.com/ulysseskk/house/app/common/log"
 
-	"github.com/abyss414/house/app/common/connector"
+	"github.com/ulysseskk/house/app/common/connector"
 )
 
 type RentPriceHistory struct {

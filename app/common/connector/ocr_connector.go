@@ -1,8 +1,8 @@
 package connector
 
 import (
-	"github.com/abyss414/house/app/common/config"
-	"github.com/abyss414/house/app/common/proxy/ocr"
+	"github.com/ulysseskk/house/app/common/config"
+	"github.com/ulysseskk/house/app/common/proxy/ocr"
 )
 
 var OcrConnector *ocr.OCRClient

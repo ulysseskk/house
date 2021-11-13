@@ -6,13 +6,13 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/abyss414/house/app/common/log"
+	"github.com/ulysseskk/house/app/common/log"
 
-	"github.com/abyss414/house/app/common/dal"
+	"github.com/ulysseskk/house/app/common/dal"
 
-	"github.com/abyss414/house/app/common/errors"
+	"github.com/ulysseskk/house/app/common/errors"
 
-	"github.com/abyss414/house/app/common/model/db"
+	"github.com/ulysseskk/house/app/common/model/db"
 )
 
 type executeFunc func(ctx context.Context, detail *db.RentDetail) error

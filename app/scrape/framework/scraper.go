@@ -1,7 +1,7 @@
 package framework
 
 import (
-	"github.com/abyss414/house/app/common/model/statistic"
+	"github.com/ulysseskk/house/app/common/model/statistic"
 )
 
 type ScrapeStatistic interface {

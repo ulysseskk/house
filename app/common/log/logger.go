@@ -12,7 +12,7 @@ import (
 
 	"github.com/opentracing/opentracing-go"
 
-	"github.com/abyss414/house/app/common/config"
+	"github.com/ulysseskk/house/app/common/config"
 
 	"github.com/sirupsen/logrus"
 	"gopkg.in/natefinch/lumberjack.v2"

@@ -7,10 +7,10 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/abyss414/house/app/common/model/db"
+	"github.com/ulysseskk/house/app/common/model/db"
 
-	"github.com/abyss414/house/app/common/config"
-	"github.com/abyss414/house/app/common/connector"
+	"github.com/ulysseskk/house/app/common/config"
+	"github.com/ulysseskk/house/app/common/connector"
 )
 
 func TestGetAllInnerAreaLink(t *testing.T) {

@@ -1,4 +1,4 @@
-module github.com/abyss414/house
+module github.com/ulysseskk/house
 
 go 1.15
 

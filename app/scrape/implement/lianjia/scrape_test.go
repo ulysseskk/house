@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/abyss414/house/app/common/model/db"
+	"github.com/ulysseskk/house/app/common/model/db"
 )
 
 func TestScrapper_GetAllAreaLink(t *testing.T) {

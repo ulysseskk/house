@@ -5,16 +5,16 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/abyss414/house/app/scrape/implement/woaiwojia"
+	"github.com/ulysseskk/house/app/scrape/implement/woaiwojia"
 
-	"github.com/abyss414/house/app/scrape/implement/ziroom"
+	"github.com/ulysseskk/house/app/scrape/implement/ziroom"
 
-	"github.com/abyss414/house/app/common/constant"
-	"github.com/abyss414/house/app/scrape/implement/lianjia"
+	"github.com/ulysseskk/house/app/common/constant"
+	"github.com/ulysseskk/house/app/scrape/implement/lianjia"
 
-	"github.com/abyss414/house/app/common/log"
-	"github.com/abyss414/house/app/common/model/statistic"
-	"github.com/abyss414/house/app/common/tracing"
+	"github.com/ulysseskk/house/app/common/log"
+	"github.com/ulysseskk/house/app/common/model/statistic"
+	"github.com/ulysseskk/house/app/common/tracing"
 )
 
 func NewScraper(city string, conf *Conf, platform string) *Scrapper {

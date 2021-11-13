@@ -8,16 +8,16 @@ import (
 	"strings"
 	"time"
 
-	"github.com/abyss414/house/app/common/model/statistic"
+	"github.com/ulysseskk/house/app/common/model/statistic"
 
-	"github.com/abyss414/house/app/common/tracing"
+	"github.com/ulysseskk/house/app/common/tracing"
 
-	"github.com/abyss414/house/app/common/model/db"
+	"github.com/ulysseskk/house/app/common/model/db"
 
-	"github.com/abyss414/house/app/scrape/metrics"
+	"github.com/ulysseskk/house/app/scrape/metrics"
 
-	"github.com/abyss414/house/app/common/log"
 	"github.com/gocolly/colly/v2"
+	"github.com/ulysseskk/house/app/common/log"
 )
 
 func NewLianjiaExecutor() *LianjiaExecutor {

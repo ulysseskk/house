@@ -1,8 +1,8 @@
 package connector
 
 import (
-	"github.com/abyss414/house/app/common/config"
 	"github.com/piaohao/godis"
+	"github.com/ulysseskk/house/app/common/config"
 )
 
 var RedisPool *godis.Pool

@@ -1,8 +1,8 @@
 package connector
 
 import (
-	"github.com/abyss414/house/app/common/config"
-	"github.com/abyss414/house/app/common/proxy/amap"
+	"github.com/ulysseskk/house/app/common/config"
+	"github.com/ulysseskk/house/app/common/proxy/amap"
 )
 
 var AmapClient *amap.AmapClient

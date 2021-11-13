@@ -4,8 +4,8 @@ import (
 	"context"
 	"encoding/json"
 
-	"github.com/abyss414/house/app/common/config"
 	"github.com/go-resty/resty/v2"
+	"github.com/ulysseskk/house/app/common/config"
 )
 
 type OCRClient struct {

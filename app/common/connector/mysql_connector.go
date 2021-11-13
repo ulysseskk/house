@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/abyss414/house/app/common/config"
+	"github.com/ulysseskk/house/app/common/config"
 
 	"gorm.io/driver/mysql"
 	_ "gorm.io/driver/mysql"

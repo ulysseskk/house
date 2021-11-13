@@ -4,11 +4,11 @@ import (
 	"context"
 	"testing"
 
-	"github.com/abyss414/house/app/common/model/statistic"
+	"github.com/ulysseskk/house/app/common/model/statistic"
 
-	"github.com/abyss414/house/app/common/config"
-	"github.com/abyss414/house/app/common/connector"
-	"github.com/abyss414/house/app/common/model/db"
+	"github.com/ulysseskk/house/app/common/config"
+	"github.com/ulysseskk/house/app/common/connector"
+	"github.com/ulysseskk/house/app/common/model/db"
 )
 
 func TestMigrate(t *testing.T) {

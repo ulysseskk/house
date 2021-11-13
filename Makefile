@@ -1,5 +1,5 @@
 ### repo name
-REPO_PATH := "github.com/abyss414/house"
+REPO_PATH := "github.com/ulysseskk/house"
 
 ### go path
 GOPATHVAR=${GOPATH}
